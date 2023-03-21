@@ -1,6 +1,15 @@
 #pepo {
+  width: 200px;
+  height: 200px;
+  margin-left: 200px;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  filter: grayscale(200%) drop-shadow(20px 20px blue);
+  filter: grayscale(100%) drop-shadow(3px 3px red);
+}
+
+#salamandra {
+  width: 200px;
+  height: 200px;
+  margin-left: 200px;
+  display: block;
+  filter: grayscale(100%) drop-shadow(3px 3px red);
 }
