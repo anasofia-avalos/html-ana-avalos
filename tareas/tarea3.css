@@ -1,0 +1,41 @@
+#pepo {
+  width: 200px;
+  height: 200px;
+  margin-left: 200px;
+  display: block;
+  filter: grayscale(100%) drop-shadow(6px 6px rgb(0, 0, 255));
+}
+h2 {
+  text-align: center;
+  color: aqua;
+  text-shadow: blue 2px 2px;
+  font-size: 50px;
+}
+
+#salamandra {
+  width: 200px;
+  height: 200px;
+  margin-left: 20px;
+  display: block;
+  filter: grayscale(100%) drop-shadow(6px 6px pink);
+}
+h3 {
+  text-align: center;
+  color: blueviolet;
+  text-shadow: pink 2px 2px;
+  font-size: 50px;
+}
+
+#julian {
+  width: 200px;
+  height: 200px;
+  margin-left: 300px;
+  display: block;
+  filter: grayscale(100%) drop-shadow(6px 6px green);
+}
+h4 {
+  text-align: center;
+  color: aquamarine;
+  text-shadow: green 2px 2px;
+  font-size: 50px;
+}
